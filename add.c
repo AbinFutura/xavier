@@ -13,6 +13,9 @@ int main()
     c = a + b;
 
     printf("Sum = %d\n", c);
-
+    printf("enter a number");
+    printf("enter a number");
+    printf("enter a number");
+    printf("enter a number");
     return 0;
 }
