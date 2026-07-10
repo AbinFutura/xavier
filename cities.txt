@@ -3,3 +3,5 @@ kannur
 eranjipalam
 thrissur
 kochi
+Trivandrum 
+Thodupuzha
